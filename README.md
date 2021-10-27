@@ -1,4 +1,4 @@
-# Data-science-Projects
+# Titanic Survival Prediction
 I started with the data exploration where I got a feeling for the dataset,
 checked about missing data and learned which features are important. 
 During this process I used seaborn and matplotlib to do the visualizations. 
